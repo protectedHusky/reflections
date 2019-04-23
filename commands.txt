@@ -1,0 +1,14 @@
+Compare two commits
+git diff will do this. It takes two arguments - the two commit ids to compare. 
+
+
+Make a copy of an entire Git repository
+git clone will do this. It takes one argument - the url of the repository to copy. 
+
+
+Temporarily reset all files in a directory to their state at the time of a specific commit
+git checkout will do this. It takes one argument - the commit ID to restore. 
+
+
+Show the commits made in this repository
+git log will do this. It doesn't take any arguments

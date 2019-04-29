@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-Once repository is initialized, we can start tracking the commits. We need it so that we can have commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-Staging area allows you to work specifically on files so that you can create a specific commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+-Check the staging area occasionally
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+-Branches could be helpful for creating different versions of the game.
+
+How do the diagrams help you visualize the branch structure?
+
+-They show parents.
